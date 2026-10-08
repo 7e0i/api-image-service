@@ -46,7 +46,7 @@ api for image processing built with fastapi and pillow
 ```bash
 git clone https://github.com/7e0i/api-image-service.git
 
-cd romix-service
+cd ronix-service
 python -m pip install -r requirements.txt
 ```
 
