@@ -1,4 +1,4 @@
-# romix service
+# ronix service
 ![logo](https://i.ibb.co/4ZqCyhFH/ronix-logo.png)
 
 api for image processing built with fastapi and pillow
